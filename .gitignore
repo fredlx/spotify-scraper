@@ -1,0 +1,60 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Editor settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Output files
+*.csv
+*.json
+/data/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy / coverage / test reports
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode Python config
+.vscode/settings.json
+
+# other files and folders
+get_from_playlist_2.py
+get_from_playlist.py
+get_from_user_2.py
+notebook.ipynb
+.cache
+
+# Track sample template
+!sample.env
+!sample_audio.json
+!sample_track.json

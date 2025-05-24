@@ -1,0 +1,37 @@
+{
+  "added_at": "2024-05-24T21:14:55Z",
+  "track": {
+    "id": "4uLU6hMCjMI75M1A2tKUQC",
+    "name": "Never Gonna Give You Up",
+    "explicit": false,
+    "duration_ms": 213000,
+    "popularity": 78,
+    "preview_url": "https://p.scdn.co/mp3-preview/example",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/track/4uLU6hMCjMI75M1A2tKUQC"
+    },
+    "artists": [
+      {
+        "id": "0gxyHStUsqpMadRV0Di1Qt",
+        "name": "Rick Astley",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt"
+        }
+      }
+    ],
+    "album": {
+      "name": "Whenever You Need Somebody",
+      "album_type": "album",
+      "release_date": "1987-11-16",
+      "total_tracks": 10,
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/example"
+        }
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/example"
+      }
+    }
+  }
+}
